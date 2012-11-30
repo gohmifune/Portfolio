@@ -1,0 +1,18 @@
+* Home(index.php) //2 curved corner rectangles which give overview. **Left** one is a summary of qualifications. **Right** one says _click here_
+	* About Me (about.php) //Cookie Policy, Employment Info
+	* Resume (resume.php)
+	* Portfolio (portfolio/portfolio.php)
+		* School Priojects (portfolio/portfolio.php)
+			* Redone Webpages (portfolio/school.php)
+			* ASP.NET Assignments in PHP (portfolio/machine_problems.php)
+		* Subcontracting (portfolio/subcontracting.php)
+		* Other (portfolio/other.php)
+	* Projects
+		* PHP (projects/php_projects.php)
+			* To Do List (projects/todo.php)
+			* Login (projects/login.php)
+			* Guestbook (projects/guestbook.php)
+			* Shoutbox (projects/shoutbox.php)
+			* Calendar (projects/calendar.php)
+		* JavaScript (projects/javascript_projects.php)
+	* Contact (contact.php)

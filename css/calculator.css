@@ -1,0 +1,36 @@
+#calc_frame {
+  border: 2px solid grey;
+  border-radius: 5px;
+  /*box-shadow: */
+  height: auto;
+  margin: 10% auto;
+  width: 350px;
+}
+#results-bar {
+  border: 1px solid;
+  height:50px;
+  margin: 10px auto;
+  width: 80%;
+}
+
+.button {
+  background-color: blue;
+  border-radius: 2px;
+  color: white;
+  float: left;
+  height: 50px;
+  margin: 10px;
+  text-align: center;
+  width: 50px;
+}
+.button:hover {
+  background-color: red;
+  color: black;
+}
+.tall_button {
+  height: 120px;
+  float: right;
+  
+}
+equals_button {
+}

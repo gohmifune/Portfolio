@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2" kpf_version="5" name="portfolio.kpf.komodoproject">
+<livefolder id="0d1dc51d-a6b7-4865-baf1-bf57a424072f" idref="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2" name="files" url="files">
+</livefolder>
+<file id="43eb8128-6614-4ca9-ae9b-17a2f7bcd0be" idref="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2" name="todolist.txt" url="todolist.txt">
+</file>
+<file id="4ea760a0-41eb-4fab-9e6c-fbf8647ea959" idref="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2" name="index.php" url="index.php">
+</file>
+<livefolder id="50d8571c-f650-431a-8a12-e01f183c2e9e" idref="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2" name="js" url="js">
+</livefolder>
+<folder id="62e86f99-39a1-4155-abc0-1f442f7450de" idref="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2" name="portfolio">
+</folder>
+<folder id="7be23e2f-99a4-49f4-915d-4a9854ebe7fb" idref="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2" name="resume">
+</folder>
+<folder id="949fd11b-1333-4852-a835-96465163f154" idref="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2" name="other">
+</folder>
+<folder id="a4b0357d-192a-4ce5-87b9-9dc697b91634" idref="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2" name="css">
+</folder>
+<folder id="a5efe38b-0ad0-480e-ab5f-ab39e55cd49d" idref="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2" name="demos">
+</folder>
+<livefolder id="a75d61ff-61e5-4e4c-97c7-f01106b39693" idref="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2" name="php" url="php">
+</livefolder>
+<file id="efbeea39-e57c-4c72-953e-2b185f07e9c2" idref="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2" name="contact.php" url="contact.php">
+</file>
+<livefolder id="818eeff5-6c98-44a6-a7b4-00760b12a945" idref="62e86f99-39a1-4155-abc0-1f442f7450de" name="portfolio" url="portfolio">
+</livefolder>
+<file id="8a0dabba-00f5-4741-b8c6-dc0619cbe549" idref="62e86f99-39a1-4155-abc0-1f442f7450de" name="portfolio.php" url="portfolio/portfolio.php">
+</file>
+<file id="e8d94100-3548-420c-8d55-4416394c3344" idref="7be23e2f-99a4-49f4-915d-4a9854ebe7fb" name="resume.html" url="resume.html">
+</file>
+<file id="16cd494d-48d5-4cc6-9ed3-bd8c8f501bb3" idref="a4b0357d-192a-4ce5-87b9-9dc697b91634" name="calculator.css" url="css/calculator.css">
+</file>
+<file id="71b459cf-d592-47ec-9c7a-1dede1b9f449" idref="a4b0357d-192a-4ce5-87b9-9dc697b91634" name="mobile.css" url="css/mobile.css">
+</file>
+<file id="8599e024-d472-4111-b158-790ce40c05de" idref="a4b0357d-192a-4ce5-87b9-9dc697b91634" name="printable.css" url="css/printable.css">
+</file>
+<file id="bef11b41-0ca5-49ed-9782-a2e9dc93c2af" idref="a4b0357d-192a-4ce5-87b9-9dc697b91634" name="desktop.css" url="css/desktop.css">
+</file>
+<livefolder id="485f595f-6f6f-4a49-9617-a61f79216df4" idref="a5efe38b-0ad0-480e-ab5f-ab39e55cd49d" name="css" url="css">
+</livefolder>
+<livefolder id="5111a959-99a8-4a22-a2a5-1122e8d8098c" idref="a5efe38b-0ad0-480e-ab5f-ab39e55cd49d" name="php" url="php">
+</livefolder>
+<livefolder id="5b7c01db-7024-427c-a20d-20fa017ab60e" idref="a5efe38b-0ad0-480e-ab5f-ab39e55cd49d" name="js" url="js">
+</livefolder>
+<livefolder id="c15d8ad5-7650-4cf5-a439-68a9de4095b4" idref="a5efe38b-0ad0-480e-ab5f-ab39e55cd49d" name="demos" url="demos">
+</livefolder>
+<folder id="d5796415-c2fc-46ff-a32f-8aa94a352731" idref="a5efe38b-0ad0-480e-ab5f-ab39e55cd49d" name="calculator">
+</folder>
+<file id="859091a0-6317-4c55-ab02-94888c2db256" idref="d5796415-c2fc-46ff-a32f-8aa94a352731" name="calculator.css" url="css/calculator.css">
+</file>
+<file id="dd7d26e8-f024-4080-a5d4-e12a4a93dca4" idref="d5796415-c2fc-46ff-a32f-8aa94a352731" name="calculator.html" url="demos/calculator.html">
+</file>
+<file id="fb2d9ddb-d3fd-4cc0-8b9b-6fbd9363a20e" idref="d5796415-c2fc-46ff-a32f-8aa94a352731" name="calculator.js" url="js/calculator.js">
+</file>
+<preference-set idref="5d57fcf4-87a5-499a-8bc6-c5d166cf34a2">
+  <long id="caretStyle">1</long>
+  <long id="caretWidth">3</long>
+  <boolean id="checkDiskFile">1</boolean>
+  <boolean id="checkNetworkDiskFile">1</boolean>
+  <string id="defaultDateFormat">%25a %25b %25d %25H:%25M:%25S %25Y</string>
+  <string id="donotask_action_close_deleted_files"></string>
+  <string id="donotask_action_dragdrop_uri"></string>
+  <string id="donotask_action_reload_changed_files"></string>
+  <boolean id="donotask_buffer_conflicts_with_file_on_disk">0</boolean>
+  <boolean id="donotask_close_deleted_files">0</boolean>
+  <boolean id="donotask_dragdrop_uri">0</boolean>
+  <boolean id="donotask_reload_changed_files">0</boolean>
+  <boolean id="donotask_revert_buffer">0</boolean>
+  <boolean id="donotask_treat_large_documents_as_text">0</boolean>
+  <boolean id="editUseLinting">1</boolean>
+  <boolean id="encodingAutoDetect">1</boolean>
+  <string id="encodingDefault">utf-8</string>
+  <boolean id="encodingEnvironment">0</boolean>
+  <boolean id="encodingHTML">0</boolean>
+  <boolean id="encodingModeline">1</boolean>
+  <boolean id="encodingXMLDec">1</boolean>
+  <boolean id="genericLinter:CSS">1</boolean>
+  <string relative="path" id="import_dirname"></string>
+  <string id="import_exclude_matches">*.*~;*.bak;*.tmp;CVS;.#*;*.pyo;*.pyc;.svn;_svn;.git;.hg;.bzr;*%25*;tmp*.html;.DS_Store;*.swp;*.kpf;*.komodoproject;.komodotools;__pycache__</string>
+  <string id="import_include_matches"></string>
+  <string id="jshintOptions"></string>
+  <string id="jshint_linter_chooser">default</string>
+  <string id="jshint_linter_specific"></string>
+  <string id="jslintOptions"></string>
+  <string id="jslint_linter_chooser">default</string>
+  <string id="jslint_linter_specific"></string>
+<preference-set id="languages">
+<preference-set id="languages/ActionScript">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/Ada">
+  <boolean id="Ada/newBOM">0</boolean>
+  <string id="Ada/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Apache">
+  <boolean id="Apache/newBOM">0</boolean>
+  <string id="Apache/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Baan">
+  <boolean id="Baan/newBOM">0</boolean>
+  <string id="Baan/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Batch">
+  <boolean id="Batch/newBOM">0</boolean>
+  <string id="Batch/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Bullant">
+  <boolean id="Bullant/newBOM">0</boolean>
+  <string id="Bullant/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/C#">
+  <boolean id="C#/newBOM">0</boolean>
+  <string id="C#/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/C++">
+  <boolean id="C++/newBOM">0</boolean>
+  <string id="C++/newEncoding">Default Encoding</string>
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/CSS">
+  <boolean id="CSS/newBOM">0</boolean>
+  <string id="CSS/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/CoffeeScript">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/Diff">
+  <boolean id="Diff/newBOM">0</boolean>
+  <string id="Diff/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Django">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/EJS">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/Eiffel">
+  <boolean id="Eiffel/newBOM">0</boolean>
+  <string id="Eiffel/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Errors">
+  <boolean id="C++/newBOM">0</boolean>
+  <string id="C++/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Fortran">
+  <boolean id="Fortran/newBOM">0</boolean>
+  <string id="Fortran/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Fortran 77">
+  <boolean id="Fortran 77/newBOM">0</boolean>
+  <string id="Fortran 77/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/HTML">
+  <boolean id="HTML/newBOM">0</boolean>
+  <string id="HTML/newEncoding">Default Encoding</string>
+  <long id="indentWidth">2</long>
+  <long id="tabWidth">2</long>
+</preference-set>
+<preference-set id="languages/HTML5">
+  <long id="indentWidth">2</long>
+  <long id="tabWidth">2</long>
+</preference-set>
+<preference-set id="languages/IDL">
+  <boolean id="IDL/newBOM">0</boolean>
+  <string id="IDL/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Java">
+  <boolean id="Java/newBOM">0</boolean>
+  <string id="Java/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/JavaScript">
+  <boolean id="JavaScript/newBOM">0</boolean>
+  <string id="JavaScript/newEncoding">Default Encoding</string>
+  <long id="indentWidth">2</long>
+  <long id="tabWidth">2</long>
+</preference-set>
+<preference-set id="languages/LaTeX">
+  <boolean id="LaTeX/newBOM">0</boolean>
+  <string id="LaTeX/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Less">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/Lisp">
+  <boolean id="Lisp/newBOM">0</boolean>
+  <string id="Lisp/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Lua">
+  <boolean id="Lua/newBOM">0</boolean>
+  <string id="Lua/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Luddite">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/MXML">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/Makefile">
+  <boolean id="Makefile/newBOM">0</boolean>
+  <string id="Makefile/newEncoding">Default Encoding</string>
+  <boolean id="useTabs">1</boolean>
+</preference-set>
+<preference-set id="languages/Markdown">
+  <boolean id="primary">1</boolean>
+</preference-set>
+<preference-set id="languages/Mason">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/Matlab">
+  <boolean id="Matlab/newBOM">0</boolean>
+  <string id="Matlab/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/MySQL">
+  <boolean id="primary">1</boolean>
+</preference-set>
+<preference-set id="languages/Node.js">
+  <boolean id="Node.js/newBOM">0</boolean>
+  <string id="Node.js/newEncoding">utf-8</string>
+</preference-set>
+<preference-set id="languages/PHP">
+  <boolean id="PHP/newBOM">0</boolean>
+  <string id="PHP/newEncoding">Default Encoding</string>
+  <long id="indentWidth">2</long>
+  <long id="tabWidth">2</long>
+</preference-set>
+<preference-set id="languages/Pascal">
+  <boolean id="Pascal/newBOM">0</boolean>
+  <string id="Pascal/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Perl">
+  <boolean id="Perl/newBOM">0</boolean>
+  <string id="Perl/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Python">
+  <boolean id="Python/newBOM">0</boolean>
+  <string id="Python/newEncoding">ascii</string>
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/Python3">
+  <boolean id="Python3/newBOM">0</boolean>
+  <string id="Python3/newEncoding">utf-8</string>
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/RHTML">
+  <boolean id="RHTML/newBOM">0</boolean>
+  <string id="RHTML/newEncoding">Default Encoding</string>
+  <long id="indentWidth">2</long>
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/Ruby">
+  <boolean id="Ruby/newBOM">0</boolean>
+  <string id="Ruby/newEncoding">Default Encoding</string>
+  <long id="indentWidth">2</long>
+</preference-set>
+<preference-set id="languages/SQL">
+  <boolean id="SQL/newBOM">0</boolean>
+  <string id="SQL/newEncoding">Default Encoding</string>
+</preference-set>
+<preference-set id="languages/Smarty">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/Tcl">
+  <boolean id="Tcl/newBOM">0</boolean>
+  <string id="Tcl/newEncoding">Default Encoding</string>
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/TemplateToolkit">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/Text">
+  <boolean id="Text/newBOM">0</boolean>
+  <string id="Text/newEncoding">Default Encoding</string>
+  <long id="indentWidth">2</long>
+  <long id="tabWidth">2</long>
+</preference-set>
+<preference-set id="languages/Twig">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/VisualBasic">
+  <boolean id="VisualBasic/newBOM">0</boolean>
+  <string id="VisualBasic/newEncoding">utf-8</string>
+</preference-set>
+<preference-set id="languages/XBL">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/XML">
+  <boolean id="XML/newBOM">0</boolean>
+  <string id="XML/newEncoding">utf-8</string>
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/XSLT">
+  <boolean id="XSLT/newBOM">0</boolean>
+  <string id="XSLT/newEncoding">utf-8</string>
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/XUL">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/epMojo">
+  <boolean id="primary">0</boolean>
+</preference-set>
+<preference-set id="languages/nnCrontab">
+  <boolean id="nnCrontab/newBOM">0</boolean>
+  <string id="nnCrontab/newEncoding">Default Encoding</string>
+</preference-set>
+</preference-set>
+  <boolean id="lintClearOnTextChange">0</boolean>
+  <long id="lintDelay">1000</long>
+  <boolean id="lintEOLs">1</boolean>
+  <boolean id="lintHTML5Lib">0</boolean>
+  <boolean id="lintHTMLTidy">1</boolean>
+  <boolean id="lintHTML_CheckWith_Perl_HTML_Lint">0</boolean>
+  <boolean id="lintHTML_CheckWith_Perl_HTML_Tidy">0</boolean>
+  <boolean id="lintJavaScriptEnableStrict">1</boolean>
+  <boolean id="lintJavaScriptEnableWarnings">1</boolean>
+  <boolean id="lintJavaScript_SpiderMonkey">1</boolean>
+  <boolean id="lintWithJSHint">0</boolean>
+  <boolean id="lintWithJSLint">1</boolean>
+  <boolean id="lint_coffee_script">1</boolean>
+  <boolean id="lint_python3_with_pychecker3">0</boolean>
+  <boolean id="lint_python3_with_pyflakes3">0</boolean>
+  <boolean id="lint_python3_with_pylint3">0</boolean>
+  <boolean id="lint_python3_with_standard_python">1</boolean>
+  <boolean id="lint_python_with_pychecker">0</boolean>
+  <boolean id="lint_python_with_pyflakes">0</boolean>
+  <boolean id="lint_python_with_pylint">0</boolean>
+  <boolean id="lint_python_with_standard_python">1</boolean>
+  <string id="mappedPaths"></string>
+  <string id="nodejsDefaultInterpreter"></string>
+  <string id="nodejsExtraPaths"></string>
+  <string id="perlDefaultInterpreter"></string>
+  <string id="perlExtraPaths"></string>
+  <string id="perl_lintOption">cw</string>
+  <boolean id="perl_lintOption_disableBeginBlocks">1</boolean>
+  <boolean id="perl_lintOption_includeCurrentDirForLinter">1</boolean>
+  <string id="perl_lintOption_perlCriticLevel">off</string>
+  <string id="phpCommentStyle">//,#</string>
+  <string id="phpConfigFile"></string>
+  <string id="phpDefaultInterpreter"></string>
+  <string id="phpExtraPaths">D:\Web Development</string>
+  <string id="pychecker3_checking_rcfile"></string>
+  <string id="pychecker3_wrapper_location"></string>
+  <string id="pychecker_checking_rcfile"></string>
+  <string id="pychecker_wrapper_location"></string>
+  <string id="pylint3_checking_rcfile"></string>
+  <string id="pylint_checking_rcfile"></string>
+  <string id="python3DefaultInterpreter"></string>
+  <string id="python3ExtraPaths"></string>
+  <string id="pythonDefaultInterpreter"></string>
+  <string id="pythonExtraPaths"></string>
+  <string id="rubyDefaultInterpreter"></string>
+  <string id="rubyExtraPaths"></string>
+  <string id="ruby_lintOption">cwT</string>
+  <boolean id="scrollEndAtLastLine">0</boolean>
+  <long id="scrollWidth">2000</long>
+  <boolean id="scrollWidthTracking">1</boolean>
+  <boolean id="select_most_recent_buffer_on_buffer_close">0</boolean>
+  <boolean id="showEOL">0</boolean>
+  <boolean id="showLineNumbers">1</boolean>
+  <boolean id="showWhitespace">0</boolean>
+  <string id="tidy_accessibility">1</string>
+  <string id="tidy_configpath"></string>
+  <string id="tidy_errorlevel">warnings</string>
+  <string id="userEnvironmentStartupOverride">PROGRAMFILES=D:\Programs
+</string>
+  <long id="ySlop">10</long>
+</preference-set>
+</project>

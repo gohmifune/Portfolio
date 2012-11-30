@@ -1,0 +1,60 @@
+Resume
+======
+- Three Pane View
+- Printable View 
+- Name(Top Left)
+- E-mail(Top Left)
+- Website (Top Right)
+- Education (Bottom Pane)
+- Work Experience (Bottom Pane)
+- Skills (Bottom Pane)
+    - Hard
+         - Databases(SQL/T-SQL, Access, SQL Server)
+         - HTML/CSS/JavaScript/JQuery/PHP
+         - Markdown
+         - Apache/IIS
+         - VB.NET/ASP.NET
+         - MVC
+         - Website Auditing and Usability Testing
+         - Basic Design
+    - Soft
+         - Communication
+         - Research and Problem Solving
+         - Time and Resource Management
+         - Leadership
+- Software (Bottom Pane)
+
+
+Portfolio Website
+=================
+
+- Home Page
+- Resume Page
+- Demo Page
+    - Pages Done with top frame with Download and Home Link
+    - School Projects
+        - Redone Webpages
+        - ASP.NET Assignments Redone in PHP
+    - Random Projects(Calculator/Database/To Do List/List Generator)
+        - JavaScript(Client-Side)
+            - Calculator
+            - Number Generator
+        - JavaScript(Server-Side)
+            - Interest Calculator
+            - Text Adventure
+        - PHP
+            - To Do List
+            - Login
+            - Guest Book
+            - Shoutbox
+            - Calendar
+    - Personal Pages
+        - JavaScript
+        - PHP 
+- Resume Page
+- Contact Info
+    - Contact Form
+    - Available for Employment and Subcontracting Work
+- Cookie Resume feature that loads previously view page(with prompt)
+- Wordpress Page
+- Buy Domain
