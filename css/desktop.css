@@ -9,6 +9,13 @@ li {
   list-style-type: none;
   margin: 7px;
 }
+p {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -o-hyphens: auto;
+  hyphens: auto;
+}
 ul {
   margin: 40% 10%;
   
