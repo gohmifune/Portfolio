@@ -1,15 +1,20 @@
 #calc_frame {
   border: 2px solid grey;
   border-radius: 5px;
+  display: box;
   /*box-shadow: */
   height: auto;
   margin: 10% auto;
   width: 350px;
 }
+input {
+  margin: 0;
+}
 #results-bar {
-  border: 1px solid;
+  border: 2px solid;
   height:50px;
-  margin: 10px auto;
+  margin: 10px 30px;
+  text-align: right;
   width: 80%;
 }
 

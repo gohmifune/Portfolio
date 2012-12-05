@@ -1,4 +1,4 @@
-//This program is to make a calculator. Nothin complicated.
+//This program is to make a calculator. Nothing  complicated.
 //Christopher Wilson
 
 /* Program walkthrough
@@ -19,16 +19,12 @@
 /* Program features:
  * Buttons should change color when clicked
  * Numbers should be sent to view window
- * Capable of:
-      * Add
-      * Subtract
-      * Multiply
-      * Divide
-      * Clear
-      * Memory store/restore
+ 
  * Variables neded:
       * number
       * total
       * memory
       * calculation
  */
+
+
