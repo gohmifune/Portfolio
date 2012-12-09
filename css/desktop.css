@@ -16,6 +16,15 @@ p {
   -o-hyphens: auto;
   hyphens: auto;
 }
+nav {
+  float: right;
+  /*margin: 10% 0;*/
+  min-height: 200px;
+  /*min-width: 200px;*/
+}
+nav:hover {
+  background: rgb(255,255,53) !important;
+}
 ul {
   margin: 40% 10%;
   
@@ -35,16 +44,6 @@ ul {
   height: 80%;
   margin: auto;
   width: 80%;
-}
-#nav {
-  float: right;
-  /*margin: 10% 0;*/
-  min-height: 200px;
-  /*min-width: 200px;*/
-}
-#nav:hover {
-  background: rgb(255,255,53) !important;
-
 }
 #profile {
   float: left;
