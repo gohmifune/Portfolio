@@ -26,5 +26,12 @@
       * memory
       * calculation
  */
+alert('hello');
 
+var n = document.getElementsByClassName('number');
 
+function number(n.value) {
+  alert n.value;
+}
+
+document.getElementsByClassName('number').onclick = alert('hello');

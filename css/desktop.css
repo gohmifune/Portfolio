@@ -2,27 +2,49 @@ a {
   color: rgb(000,000,000);
 }
 body {
-  /*background: rgb(10,10,10);*/
-  /*font-size: 1.2em;*/
+  background: rgb(200,200,200);
+  box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+  box-shadow: 0px 0px 15px black;
+    /*-moz-box-shadow: -5px rgb(000,000,000);*/
   font-family: arial, sans-serif;
+  height: 800px;
+  margin: 0 auto;
+  padding: 1% 5%;
+  width: 80%;
 }
 footer {
-  display: inline-block;
+  clear: left;
+  display: block;
+  font-size: .8em;
+  text-align: center;
+  width: 100%;
 }
-form{
-  margin: 0 auto;
-  width: 459px;
+form {
+  margin: 5% auto;
+  width: 80%;
 }
-input, textarea {
+header {
+  font-size: 2em;
+  margin: 0 auto 2%;
+  text-align: center;
+}
+html {
+  background: white;
+}
+input, select, textarea {
   background: rgb(239,239,239);
   border: 1px solid rgb(222,222,222);
   border-radius: 5px;
   color: rgb(058,058,058);
+  float: none;
   font-size: 0.9em;
-  height: 27px;
+  height: auto;
   margin-top: 3px;
+  max-width: 95%;
   padding: 10px;
-  width: 439px;  
+  width: 90%;  
 }
 input:focus, textarea:focus {
   background: rgb(220,220,220);
@@ -33,20 +55,23 @@ label {
     letter-spacing: 2px;
     margin-top: 20px;
 }
-nav li {
+li {
   list-style-type: none;
+}
+nav li {
   display: inline;
-  margin: 7px;
+  margin: 0 5%;
+  width: 20%;
 }
 nav a {
   display: inline-block;
-  margin: 0 30px;
+  margin: 0 auto;
 }
 nav {
-  border-bottom: 2px solid rgb(000,000,000);
-  heght: 40px;
+  border-bottom: 1.5px solid rgb(000,000,000);
+  margin: 0 auto;
   text-align: center;
-  width: 100%;
+  width: 80%;
 }
 p {
   -webkit-hyphens: auto;
@@ -62,14 +87,16 @@ section {
   height: 75%;
   width: 30%;
 }
+.form {
+  margin: 0 auto;
+}
 textarea {
   height: 213px;
 }
 ul {
-  /*margin: 40% 10%;*/
-  margin: 10px auto;
+  margin: 10px 20%;
 }
-
+}
 
 #click {
   float: right;
@@ -111,9 +138,36 @@ ul {
   margin-top: 10px;
   width: 80px;
 }
+
+
 /* Classes */
 .form {
-  display: block;
-  margin: 0 auto;
-  width: 576px;
+  /*display: block;*/
+  /*margin: 0 auto !important;*/
+  background-color: rgb(150,150,150);
+  box-shadow: 0px 0px 4px rgb(000,000,000);
+  float: none !important;
+  height: auto;
+  margin-bottom: 20px;
+  min-width: 500px;
+  max-width: inherit;
+  width: 60%;
+}
+.index {
+  background-color: rgb(250,250,250);
+  height: 50%;
+  margin: 20px 0;
+  width: 25%;
+}
+.left {
+  float: left;
+}
+.center {
+  margin: 2% 12% ;
+}
+.right {
+  float:  right;
+}
+.section_header {
+  text-align: center;
 }
