@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>TradeWinds Arts Festival</title>
+<!-- #EndEditable -->
+<link href="festival_style.css" rel="stylesheet" type="text/css" />
+<link href="print_festival_style.css" media="print" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.auto-style1 {
+	width: 172px;
+}
+</style>
+</head>
+
+<body>
+
+<div id="container"><div id="branding" class="auto-style1">
+	<img alt="Arts Festival" class="artsimg" height="94" src="twf_arts_side.gif" width="150" /></div>
+<div id="content">
+	
+	<ul id="navlist">
+		<li><a href="default.html">Festival</a></li>
+		<li>&nbsp;<a href="schedule.html">Schedule</a></li>
+		<li>&nbsp;<a href="sponsors.html">Sponsors</a></li>
+	</ul>
+
+<!-- #BeginEditable "pagecontent" -->
+	<p>(pagecontent)</p>
+<!-- #EndEditable -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+<div id="footer">
+	&copy; <!-- #BeginEditable "lastupdated" -->
+	<p>(lastupdated)</p>
+<!-- #EndEditable -->
+	2013 TradeWinds</div>
+
+</div></body>
+
+</html>

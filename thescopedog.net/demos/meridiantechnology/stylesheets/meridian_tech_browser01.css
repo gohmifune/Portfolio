@@ -1,0 +1,165 @@
+﻿/* Code for Links */
+#nav ul li a:active {color: rgb(4,40,40); }
+#nav ul li a:link {color: rgb(255,255,255); }
+#nav ul li a:hover {background-color: rgb(255,255,255); color: rgb(0,0,0); }
+#nav ul li a:visited {color: rgb(0,0,0); text-transform: capitalize;}
+/* End of Code for Links */
+
+
+body {	
+	background-image: url('../assets/backgrounds/asphalt_bg02.jpg');
+	background-repeat: repeat;
+	font-family: Tahoma, Geneva, sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+#container {
+	background-color: rgb(255,255,255);
+	margin: 0 auto;
+	width: 750px;
+}
+
+#masthead {
+	background-color: rgb(113,120,165);
+	background-image:url('../assets/logo.png');
+	/*border-bottom: 2px rgb(255,255,255) dashed;*/
+	height: 115px;
+	width: auto;
+}
+
+
+/* Code for Navigation */
+#current { 																		
+	/* Highlights the Current Page */
+	background-color: rgb(255,255,255);
+	color: rgb(0,0,0);
+}
+#nav {
+	background-color:rgb(113,120,165);
+	clear: both;
+	float: left;
+	height: 23px;
+	margin: 0px;
+	padding: 0px;
+	width: auto;
+}
+#nav ul {
+	background-color:rgb(113,120,165);
+	list-style-type: none;
+	margin: 0px;
+	padding: 1px 0px;
+	text-align: center;
+	width: 750px;
+}
+#nav ul li {
+	background-color: rgb(113,120,165);
+	display: inline;
+	height: 20px;
+	padding: 0px 5px;
+	font-size: 90%;
+}
+#nav ul li a {
+	padding: 5px;
+	text-decoration:none;
+}
+/* End of Code for Navigation */
+
+
+/* Code for Page Content */
+#page_content {
+	clear: both;
+	float: left;
+	min-height: 400px;
+	padding: 30px 20px;
+	width: 480px;
+}
+#page_content_02 {
+	float: right;
+	width: 200px;
+}
+/* End of Code for Page Content */
+
+
+/* Start of Code for Quotes */
+.quote {
+	border-color: rgb(113,120,165);
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: small;
+	font-weight: normal;
+	font-style: oblique;
+	border-left-style: solid;
+	border-width: 2px;
+	margin: 30px 10px 5px;
+	padding: 10px 0px 2px 6px;
+}
+.quote_name {
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: medium;
+	font-variant: small-caps;
+	font-style: normal;
+	margin: 0px 10px;
+	text-transform: none;
+	text-align: right;
+	}
+.quote_title {
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: medium;
+	font-variant: small-caps;
+	font-style: normal;
+	margin: 0px 10px;
+	text-transform: none;
+	text-align: right;
+	}
+#quotes {
+	float: left;
+	width: 190px;
+}
+/* End of Code for Quotes */
+
+
+
+.notice {
+	font-variant: small-caps;
+}
+.infobox {
+	border-color: rgb(113,120,165);
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: small;
+	font-weight: normal;
+	font-style: oblique;
+	border-left-style: solid;
+	border-width: 2px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	margin-top: 15px; 
+	margin-bottom: 2px;
+	padding-left: 6px;
+}
+
+
+/* Code for Footer */
+}
+cite {
+	font-size: 80%;
+}
+#footer {
+	background-color:rgb(113,120,165);
+	clear: both;
+	color: rgb(255,255,255);
+	height: 40px;
+	margin: 10px 0 0;
+	text-align: center;
+	width: 750px;
+}
+#footer a:active {
+	color: rgb(4,40,40);
+}
+#footer a:link {
+	color:rgb(255,255,255);
+}
+#footer a:visited {
+	color:rgb(0,0,0);
+}
+/* End of Code for Footer */

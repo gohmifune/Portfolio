@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html lang="en"	dir="ltr"	xml:lang="en"	xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <link href="stylesheets/reset.css"      media="screen"    rel="stylesheet" type="text/css" />
+    <link href="stylesheets/screen01.css"   media="screen"    rel="stylesheet" type="text/css" />
+		<link href="stylesheets/handheld01.css" media="handheld"  rel="stylesheet" type="text/css" />
+		<link href="stylesheets/print01.css"    media="print"     rel="stylesheet" type="text/css" />
+	
+    <link href="assets/icons/favicon.ico"            rel="shortcut icon" />
+    <link href="assets/icons/animated_favicon1.gif"  rel="icon"
+          type="image/gif" />
+      
+		<meta http-equiv="content-language"	content="en-us" />
+		<meta http-equiv="content-type" 		content="text/html; charset=utf-8" />
+		<meta name="author"									content="Christopher Wilson" />
+		<meta name="copyright" 							content="&copy; 2011 Christopher Wilson" />
+		<meta name="date" 									content="June 01, 2011" />
+		<meta name="description" 						content="The Web Development Portfolio of Christopher Wilson" />
+		<meta name="keywords" 							content="web development, nashville, html, css, xhtml" />	
+		<meta name="robots" 								content="noindex, nofollow" />
+    
+    <script type="text/javascript">
+     
+      function validator() {
+        if (document.contactForm.formName.value == "") {
+          alert("Please include your name");
+          return false;
+        }
+        if (document.contactForm.formBody.value == "") {
+          alert("Please include the mesage you'd like to send");
+          return false;
+        }
+        else
+          alert("Your message has been sent. \n" + "I will respond as soon as I can")
+      }
+    </script>
+    <title>Contact Me: TheScopedog.net</title>
+  </head>
+
+  <body>
+    <div id="container">
+      <div id="masthead">
+      </div>
+      
+      
+      <div class="float_left panel" id="content">
+        <p class="panel" style="width:200px">For more information, about me or
+          my website, feel free to contact me here
+        </p>
+        
+        <ul class="contact panel short float_right">
+          <li>Chistopher Wilson</li>
+          <li>Owner, Webmaster</li>
+        </ul>
+          
+        <ul class="contact panel short">
+          <li><script type='text/javascript'>
+            <!-- Begin
+            user = "webmaster";
+            site = "thescopedog.net";
+            
+            document.write('<a href=\"mailto:' + user + '@' + site + '\">');
+            document.write(user + '@' + site + '</a>');
+            // End -->
+            </script></li>      
+          <li>
+            <a href="http://www.thescopedoy.net">TheScopedog.net</a>
+          </li>
+        </ul>
+        
+        <ul class="contact float_right panel short">
+          <li>
+            <a href="assets/files/thescopedognet_webmaster.vcf">
+              vCard Dowload(1k)
+            </a>
+          </li>
+        </ul>
+        
+      </div>
+      
+      <div class="float_right panel">
+        <form action="assets/contact_form.php" enctype="text/plain"
+              method="post" name="contactForm" >
+          <fieldset>
+            <label>Your Name</label>
+            <input name="formName" onfocus="this.value=''; this.onfocus=null;"
+                   type="text" value=" Insert your name here." />
+            <label>Your E-mail</label>
+            <input name="formMail" onfocus="this.value=''; this.onfocus=null;"
+                   type="text" value=" Your message." />
+          
+            <textarea cols="30" name="formBody"
+                      onfocus="this.value=''; this.onfocus=null;" rows="15" > Insert your messages or your questions here.
+            </textarea>
+          
+          <br />
+          <input class="button" name="submit"  onclick="validator()" type="submit"
+                 value="Submit" />
+          <input class="button" name="reset"   type="reset"  value="Reset" />
+          <br />
+          </fieldset>
+        </form>
+      </div>
+      
+      <div class="navigation">
+				<ul>
+					<li>
+						<a accesskey="h"	href="index.html"
+							 title="TheScopedog's Homepage">
+							Home
+						</a>
+					</li>
+					<li>
+						<a accesskey="a"	href="about.html"
+							 title="About TheScopedog Website and it's owner" class="current">
+							About
+						</a>
+					</li>
+					<li>
+						<a accesskey="d" 	href="demos/index.html"
+							 title="The Scopedog's Demopage">
+							Demos
+						</a>
+					</li>
+					<li>
+						<a accesskey="f" 	href="feedback.html"
+							 title="Give Feedback to the Owner">
+							Feedback
+						</a>
+					</li>
+					<li>
+						<a accesskey="c" 	href="contact.html"
+							 title="Contact the webmaster">
+							Contact
+						</a>
+					</li>
+					<li>
+						<a accesskey="b"	href="scopeblog/index.php"
+							 title="The Scopeblog, my Web Dev blog.">
+							Blog
+						</a>
+					</li>
+				</ul>
+			</div>
+      
+      <div id="footer">
+				&copy; 2011 Christopher Wilson &middot; Last Update: 05-24-11
+			</div>
+    </div>
+  </body>
+
+</html>

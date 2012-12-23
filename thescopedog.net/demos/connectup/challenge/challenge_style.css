@@ -1,0 +1,52 @@
+﻿#banner {
+	float: left;
+	width: 250px;
+	background-image: url('cuc_banner_bg.gif');
+	background-repeat: no-repeat;
+	min-height: 625px;
+	background-color: #13171B;
+}
+#content {
+	padding: 10px;
+	background-color: #FFFFFF;
+	float: right;
+	width: 480px;
+}
+#footer {
+	background-color: #CCCCCC;
+	clear: both;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+#container {
+	width: 750px;
+	margin: auto;
+	background-image: url('cuc_container_bg.gif');
+	background-repeat: repeat-y;
+}
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	background-color: #a2e2f3;
+	margin-top: 0;
+	margin-left: 0;
+}
+
+h1 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #6FD917;
+	margin: 0px 0px 10px 0px;
+}
+h2 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #FF8800;
+	text-transform: uppercase;
+	letter-spacing: -2px;
+}
+
+

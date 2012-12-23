@@ -1,0 +1,179 @@
+/* Screen CSS for TheScopedog.net */
+
+body {
+	background-image: url('../assets/backgrounds/background_halftone_dots.svg');
+}
+/* Container */
+#container {
+	background-color: rgb(255,255,255);
+	border-color: rgb(100,100,100) rgb(000,000,000) rgb(000,000,000);
+	border-style: solid;
+	border-width: 1px 4px 2px 0px;
+	height: 800px;
+	margin: 0 auto;
+	min-height: 750px;
+	width: 800px;
+}
+
+/* Content */
+#about {
+	float: left;
+	height: 600px;
+	margin: 5px;
+	width: 240px;
+}
+#content {
+	background-color:rgb(255,255,255);
+}
+.contact {
+	float: left;
+	height: auto;
+	list-style-type:none;
+	margin: 5px;
+	width: 241px;
+}
+#demos {
+	float: left;
+	height: 200px;
+	margin: 5px;
+	width: 508px;
+}
+#feedback {
+	float: right;
+	height: 214px;
+	margin: 5px;
+	width: 241px;
+}
+#samples {
+	margin: 0px auto;
+	min-height: 500px;
+	width: 725px;
+}
+#title {
+	background-color: rgb(255,255,255);
+	background-image: url('../assets/logos/logo_infinity_font_banner_01.svg');
+	float: left;
+	height: 150px;
+	margin: 5px;
+	width: 508px;
+}
+.float_left {
+	float: left;
+	margin: 15px;
+	max-width: 385px;
+}
+.float_right {
+	float: right;
+	margin: 15px;
+	max-width: 385px;
+}
+.float_left p, .float_right p {margin: 15px;}
+.short {width: auto;}
+.panel {
+		background-color: rgb(255,255,255);
+		border: 2px solid rgb(000,000,000);
+		margin: 05px;
+		
+}
+.thumb {
+	height: 225px;
+	width: 225px;
+}
+
+/* Masthead */
+#masthead {
+	background-color: rgb(255,255,255);
+	background-image: url('../assets/logos/logo_infinity_font_banner_01.svg');
+	background-repeat: no-repeat;
+	background-position: center;
+	float: left;
+	height: 150px;
+	margin: 5px auto ;
+	width: 800px;
+}
+
+/* Navigation */
+.current {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.navigation {
+	border-style: solid;
+	border-width: 2px;
+	clear: both;
+	display: inline;
+	float:left;
+	height: 25px;
+	margin: 20px 28px;
+	padding: 2px 10px;
+	width: 720px;
+}
+.navigation ul {
+	margin: 1px;
+	padding: 0px;
+	text-align: center;
+}
+.navigation ul li {
+	display: inline;
+	font-size: 80%;
+	font-style: oblique;
+	height: 20px;
+	list-style-type: none;
+	padding: 0px 25px;
+	text-transform: uppercase;
+}
+/* Footer */
+#footer {
+	border-style: solid;
+	border-width: 2px;
+	float:left;
+	font-size: 80%;
+	height: 20px;
+	margin: 0 26%;
+	padding: 3px 0px;
+	text-align: center;
+	width: 44%;
+}
+
+/* Special Cases */
+form {width: 385px;}
+input {
+	border: 1px solid rgb(000,000,000);
+	margin: 5px 2px;
+	width: 210px;
+	}
+fieldset {border: 0px;}
+label 	{
+	float: left;
+	text-align: right;
+	margin: 5px 10px;
+	width: 100px
+}
+select	{
+	height: 23px;
+	margin: 5px 2px;
+	width: 216px;
+}
+textarea {
+	border: 1px solid rgb(000,000,000);
+	margin: 10px 2px;
+	width: 350px;
+}
+input:focus, select:focus, textarea:focus	{
+	background-color: rgb(245,245,245);
+	border: 2px solid;
+}
+.button {
+	background-color: rgb(255,255,255);
+	border: 1px solid rgb(000,000,000);
+	color: rgb(000,000,000);
+	width: 174px;
+}
+#logo {
+	margin: 30px auto;
+	width: 435px;
+}
+#logo img {
+	display: table-cell;
+	vertical-align: middle;
+}

@@ -1,0 +1,95 @@
+﻿/* CSS Screen layout for Memories Restored Webpage*/
+
+
+/* Header */
+#masthead {
+  background-color: rgb(183, 211, 217);
+	background-image: url('../assets/mr_logo.gif');
+	background-repeat: no-repeat;
+	height: 150px;
+  width: 800px;
+}
+#top_nav {
+ 
+}
+
+
+/* Body */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #663333;
+	background-image: url('../assets/mr_bg.gif');
+	background-repeat: repeat;
+}
+#container {
+	background-color: rgb(183, 211, 217);
+  margin: 0 auto;
+  width: 800px;
+}
+#left_col {
+	width: 120px;
+	float: left;
+}
+h1 {
+	font-family: Verdana, Arial, "Trebuchet MS", Geneva, Tahoma, sans-serif;
+	font-size: large;
+  padding: 5px 0px 0px;
+}
+h2 {
+	font-family: Verdana, Arial, "Trebuchet MS", Geneva, Tahoma, sans-serif;
+	font-size: medium;
+}
+p {
+	line-height: 150%;
+}
+.dropcap {
+	font-style: oblique;
+	font-size: x-large;
+}
+#page_content {
+	background-color: #FFFFFF;
+	padding-bottom: 20px;
+	width: 800px;
+}
+.resources {
+	padding: 2px 4px 2px 8px;
+	border: thin solid #996633;
+}
+.testimonialname {
+	font-style: italic;
+	font-variant: small-caps;
+	color: #316A72;
+	text-align: right;
+	text-decoration: underline;
+	font-size: medium;
+}
+
+
+/* Footer */
+#footer {
+  background-color: rgb(183, 211, 217);
+	clear: both;
+  margin: auto;
+	text-align: center;
+  width: 800px;
+}
+
+
+/* Misc */
+a:active {
+	color: #66337F;
+	text-decoration: underline overline;
+	margin-right: 5px;
+}
+a:hover {
+	text-decoration: underline overline;
+}
+a:link {
+	color: #9D335A;
+}
+a:visited {
+	color: #000000;
+	font-weight: bold;
+	text-decoration: line-through;
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Project Euler #003</title>
+</head>
+
+<body>
+    <h1>Project Euler Problem 003</h1>
+    
+    <p>The prime factors of 13195 are 5, 7, 13 and 29.</p>
+    
+    <p>What is the largest prime factor of the number 600851475143 ?</p>
+    
+    <script type="text/javascript">
+      
+        for(i=0;i<13195;i++) {
+          var prime = 0;
+          var nu = 0;
+          var old = 0;
+          var total = 0;
+          
+          if((i%2!=0 && i%3!=0 && i%5!=0) && 13195%i==0) { //all Prime numbers
+            old = i;
+            nu += i;
+            
+            (13195 > nu) ? document.write(old);
+              
+          }
+          
+        }
+    </script>
+
+
+</body>
+</html>

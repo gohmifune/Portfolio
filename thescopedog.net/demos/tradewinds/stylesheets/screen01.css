@@ -1,0 +1,120 @@
+﻿  /* CSS layout */
+body {
+  background-color: #9BDBEB;
+  color: rgb(65,146,75);
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+#masthead {
+	background-image: url('../assets/tw_header02.gif');
+	background-repeat: no-repeat;
+  margin: 0 auto;
+	height: 175px;
+  width: 800px;
+}
+
+#top_nav {
+}
+
+#container {
+  margin: 0 auto;
+	max-width: 800px;
+  min-width: 600px;
+  background-image: url('assets/tw_bg.gif');
+	background-repeat: repeat-y;
+}
+
+#left_col {
+	width: 200px;
+	float: left;
+}
+
+#page_content {
+	padding: 15px;
+	margin-left: 170px;
+	background-color: #FFFFFF;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-width: 4px;
+	border-bottom-width: 4px;
+	border-top-color: #87E293;
+	border-bottom-color: #87E293;
+	width: 600px;
+}
+#footer {
+	clear: both;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+li {
+	list-style-type: square;
+}
+.highlight {
+	font-weight: bold;
+	background-color: #FFE9BB;
+}
+h1 {
+	font-family: "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	color: #FE8402;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #51A5BA;
+	margin-top: 0px;
+}
+h2 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #51A5BA;
+	text-transform: uppercase;
+	letter-spacing: -2px;
+}
+a:link {
+	color: #28AACA;
+}
+a:visited {
+	color: #FE8402;
+	text-decoration: underline overline;
+}
+p {
+	line-height: 150%;
+}
+.dropcap {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 75px;
+	color: #FE8402;
+	line-height: 55px;
+	padding-top: 2px;
+	float: left;
+}
+blockquote {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+	font-weight: normal;
+	font-style: italic;
+	color: #51b4dd;
+	line-height: 90%;
+	text-align: center;
+	background-image: url('../../Data Files/Unit M/quotebg.gif');
+	background-repeat: no-repeat;
+	padding-top: 40px;
+	padding-left: 20px;
+	width: 150px;
+	float: right;
+}
+h3 {
+	font-family: "Lucida Sans", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #F18001;
+	letter-spacing: -1px;
+	border-left-style: solid;
+	border-left-width: 4px;
+	border-left-color: #51A5BA;
+	padding-right: 2px;
+}

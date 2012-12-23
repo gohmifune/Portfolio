@@ -1,0 +1,37 @@
+/* Screen CSS for TheScopedog.net */
+
+body {
+	background-image: url('../assets/backgrounds/background_blue_gradient.png');
+}
+/* Container */
+#container {
+	margin: auto;
+	width: 800px;
+}
+
+/* Content */
+#contact {
+	list-style-type:none;
+}
+
+/* Masthead */
+#masthead {
+		background-image: url('../assets/logos/logo_infinity_font_eye_01.png');
+}
+
+
+/* Footer */
+
+
+/* Special Cases */
+#logo {
+	height: 350px;
+	margin: 30px auto;
+	width: 350px;
+}
+#logo img {
+	display: table-cell;
+	height: 350px;
+	vertical-align: middle;
+	width: 350px;
+}

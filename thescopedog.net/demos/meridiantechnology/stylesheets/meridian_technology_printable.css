@@ -1,0 +1,112 @@
+﻿/* For Links. Designed Not To Display */
+#nav ul li a:active {color: rgb(4,40,40); }
+#nav ul li a:link {color: rgb(255,255,255); font-size: 110%;}
+#nav ul li a:hover {background-color: rgb(255,255,255); color: rgb(113,120,165);}
+#nav ul li a:visited {color:rgb(0,0,0);}
+
+
+body {	
+	font-family: Tahoma, Geneva, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+cite {
+	font-size: 80%;
+}
+
+/* For Navigation. Designed Not to Display */
+#nav ul {
+	background-color:rgb(113,120,165);
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	width: 750px;
+}
+#nav ul li {
+	background-color: rgb(113,120,165);
+	display: inline;
+	height: 20px;
+	padding: 0px 5px;
+	font-size: 90%;
+}
+#nav ul li a {
+	padding: 5px;
+	text-decoration:none;
+}
+
+#masthead {
+	background-image: url('../assets/logo_black.png');
+	height: 115px;
+}
+
+#nav {
+	display: none;
+}
+#container {
+	background-color: rgb(255,255,255);
+	margin: 0 auto;
+	width: 750px;
+}
+
+#page_content {
+	clear: both;
+	float: left;
+	padding: 30px 20px 0px;
+	width: 480px;
+}
+#page_content_02 {
+
+	float: right;
+	width: 200px;
+}
+
+#footer {
+	display: none;
+}
+.quote_name {
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: medium;
+	font-variant: small-caps;
+	font-style: normal;
+	margin: 0px 10px;
+	text-transform: none;
+	text-align: right;
+	
+}
+.quote {
+	border-color: rgb(0,0,0);
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: small;
+	font-weight: normal;
+	font-style: oblique;
+	border-left-style: solid;
+	border-width: 2px;
+	margin-top: 30px;
+	padding-top: 10px;
+	padding-bottom: 3px;
+	margin-bottom: 2px;
+	padding-left: 6px;
+}
+#quotes {
+	float: right;
+	width: 200px;
+}
+
+.notice {
+	font-variant: small-caps;
+}
+.infobox {
+	border-color: rgb(0,0,0);
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size: small;
+	font-weight: normal;
+	font-style: oblique;
+	border-left-style: solid;
+	border-width: 2px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	margin-top: 15px; 
+	margin-bottom: 2px;
+	padding-left: 6px;
+}

@@ -1,0 +1,124 @@
+/*CSS File for Music City Cafe Website's screen display */
+
+/* Header Content */
+#header {
+	background-color: rgb(0,0,0);
+	background-image: url('../assets/logo_blue_yellow.png');
+	height: 150px;
+}
+
+/* Navigation */
+.current {
+	border-style: solid;
+	border-width: 0px 2px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#nav {
+	border-style: solid;
+	border-width: 0px 0px 1px;
+	clear: both;
+	display: inline;
+	float:left;
+	height: 50px;
+	margin: 0px;
+	overflow: visible;
+	padding: 0px;
+	width: 480px;
+}
+#nav ul {
+	margin: 1px;
+	padding: 0px;
+	text-align: center;
+}
+#nav ul li {
+	display: inline;
+	font-size: 80%;
+	height: 40px;
+	list-style-type: none;
+	padding: 0px 5px;
+}
+#nav ul li a:hover	 {color: rgb(255, 255, 107);}
+#nav ul li a:link {color: rgb(0,49,225);}
+#nav ul li a:visited {color: rgb(0,0,0);}
+#navigation {
+	list-style-type: none;
+	padding: 0px;
+}
+
+/* Body Content */
+#container {
+	border-style: solid;
+	border-width: 2px;
+	margin: 0px auto 50px;
+	overflow: hidden;
+	width: 480px;
+}
+#content {
+	float: left;
+	margin: 0 auto;
+	padding: 10px 0px 10px 20px;
+	width: 440px;
+}
+
+/* Tables */
+form {
+	border-style: solid;
+	border-width: 1px;
+	padding: 10px;
+	width: 400px;
+}
+table {
+	padding: 10px 0px;
+}
+td {
+	padding: 0px 2px;
+}
+td.lunch {
+	border-style: solid;
+	border-width: 0px 1px 0px;
+}
+tr {
+	font-size: 80%;
+	padding: 4px 0px;
+}
+th {
+	border-style: solid;
+	border-width: 0px 0px 2px;
+	text-align: left;
+}
+
+/* Side Content */
+#side_image {	
+	clear: left;
+	margin: 5 auto;
+	width: auto;
+}
+#side_image ul {
+	list-style-type: none;
+}
+#side_image ul li {
+	padding: 2px;
+}
+
+/* Footer */
+#footer {
+	background-color: rgb(0,0,0);
+	border-color: rgb(255,255,255);
+	border-style: solid;
+	border-width: 1px;
+	color: rgb(255,255,255);
+	height: 40px;
+	margin: 0 auto;
+	text-align: center;
+	width: 480px
+}
+
+
+/* Misc */
+img {
+	display: none;
+}
+iframe {
+	display: none;
+}
