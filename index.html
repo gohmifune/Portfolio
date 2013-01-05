@@ -11,53 +11,63 @@
 
 <body>
   <div id="container">
-	<header>
-    The Portfolio of Christopher Wilson
-  </header>
-  
-  <nav id="nav" class="">
-    <ul>
-      <li><a href="contact.html">Contact</a></li>
-      <li><a href="portfolio.html">Portfolio</a></li>
-      <li><a href="resume.html">Resume</a></li>
-    </ul>
-  </nav>
-  
-  
-    <section id="about" class="section_header index left">
-      <a href="Resume.html" target="_blank">Resume</a>
-      <ul>
-        <li>BA in CS</li>
-        <li>Web Development</li>
-        <li>Databases</li>
-        <li>HTML, CSS, JS, PHP</li>
-        <li>SQL, SQL Server</li>
-        <li>Linux</li>
-      </ul>
-    </section>
+	
+    <header>
+      <p class="banner" id="name">Christopher Wilson</p>
+      <p class="banner" id="title">
+        <span id="web">Web</span>
+        <span id="dev">Dev</span><span id="elop">elop</span><span id="er">er</span>
+      </p>
+    
+      <nav id="subnav" class="b_color radius">
+        Nashville, TN
+      </nav>
       
-    <section id="contact" class="section_header index center">
-      <a href="contact.html" class="section_header">Contact</a>
+      <nav id="nav" class="radius">
+        <ul>
+          <li id="resume"  class="b_color radius"><a href="resume.html">Resume</a></li>
+          <li id="demo"    class="b_color radius"><a href="portfolio.html">Portfolio</a></li>
+          <li id="contact" class="b_color radius"><a href="contact.html">Contact</a></li>
+          <li id="home"    class="b_color radius current_tab"><a href="index.html">Home</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <section id="middle">
+      <section id="left" class="top_border">
+        <p>Greetings!</p>
+        
+        <p>My name is Christopher Wilson, and I'm a recent gradruate of the CS program at Austin Peay State University. I'm located in Nashville, TN.
+        </p>
+        
+        <p>My coursework concentrations were Web Development and Database Administration. I've taken coursework in a range of computer and programming related topics, from networking to e-Commerce.
+        </p>
+      </section>
+          
+      <section class="top_border" id="right">
+        <p><strong>About Me</strong></p>
+        <ul>
+            <li>BA in CS, minor in Art</li>
+            <li>Web Development</li>
+            <li>Databases</li>
+            <li>HTML, CSS, JS, PHP</li>
+            <li>SQL, SQL Server</li>
+            <li>Linux, Windows</li>
+            <li>Design</li>
+            <li>Testing and Usability</li>
+          </ul>  
+      </section>
     </section>
     
-    <section id="portfolio" class="section_header index right">
-      <a href="portfolio.html" class="section_header">Portfolio</a>
-      
-      <ul>
-        <li>Coding Problems</li>
-        <li>Projects</li>
-        <li>Website Demos</li>
-      </ul>
-    </section>
+    <div class="push"></div>
+  </div>
   
-  
-  <footer>
-    <div id="footer">
-    <p>All Content &copy; 2012 Christopher Wilson</p>
+  <footer id="footer">
+    <div id="copyright" class="b_color radius">
+      All Content &copy; 2012 Christopher Wilson
     </div>
   </footer>
   
-  </div>
   <script type="text/javascript" src="js/index.js"></script>
 </body>
 </html>

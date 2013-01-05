@@ -2,48 +2,82 @@
 
 <html>
   <head>
-    <meta charset="utf-8" />
-    <title>Contact Me: The Portfolio of Christopher Wilson</title>
     
     <link rel="stylesheet" type="text/css" href="css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/desktop.css">
+    
+    <meta charset="utf-8" />
+    <title>Contact Me: The Portfolio of Christopher Wilson</title>
   </head>
   
   <body>
+    <div id="container">
     <header>
-      <p>Contact Me</p>
+      <p class="banner" id="name">Christopher Wilson</p>
+      <p class="banner" id="title">
+        <span id="web">Web</span>
+        <span id="dev">Dev</span><span id="elop">elop</span><span id="er">er</span>
+      </p>
+    
+      <nav id="subnav" class="b_color radius">
+        work@nobrandheroes.net  
+      </nav>
+      <nav id="nav" class="">
+        <ul>
+          <li id="resume"  class="b_color radius"><a href="resume.html">Resume</a></li>
+          <li id="demo"    class="b_color radius"><a href="portfolio.html">Portfolio</a></li>
+          <li id="contact" class="b_color radius current_tab"><a href="contact.html">Contact</a></li>
+          <li id="home"    class="b_color radius"><a href="index.html">Home</a></li>
+        </ul>
+      </nav>
     </header>
     
-    <section class="form">
-      <form method="post" action="">
-        <label>Name: </label>
-        <input name="name" placeholder="Enter Your Name">
-        
-        <label>E-mail</label>
-        <input name="email" placeholder="Enter Your E-Mail" type="email">
-        
-        <label>Subject</label>
-        <select name="subject" id="subject">
-          <option value="general">General/Other</option>
-          <option value="subcontractting">Subcontracting</option>
-          <option value="work">Work Opportunities</option>
-        </select>
-        
-        <label>Your Message</label>
-        <textarea name="message" placeholder="Enter Your Message"></textarea>
-        
-        <label>*What is 2+2? (Anti-spam)</label>
-        <input name="human" placeholder="Please Answer">
+    <div id="middle">
+    
+      <section id="left" class="form">
+        <form method="post" action="">
+          <label>Name: </label>
+          <input name="name" placeholder="Enter Your Name">
           
-        <input id="submit" name="submit" type="submit" value="Submit">
-        <input id="reset" name="reset" type="reset" value="Reset">
-      </form>
-    </section>
+          <label>E-mail</label>
+          <input name="email" placeholder="Enter Your E-Mail" type="email">
+          
+          <label>Subject</label>
+          <select name="subject" id="subject">
+            <option value="general">General/Other</option>
+            <option value="subcontractting">Subcontracting</option>
+            <option value="work">Work Opportunities</option>
+          </select>
+          
+          <label>Your Message</label>
+          <textarea name="message" placeholder="Enter Your Message"></textarea>
+          
+          <label>*What is 2+2? (Anti-spam)</label>
+          <input name="human" placeholder="Please Answer">
+            
+          <input id="submit" name="submit" type="submit" value="Submit">
+          <input id="reset" name="reset" type="reset" value="Reset">
+        </form>
+      </section>
+      
+      <section id="right">
+        <p><strong>Available for</strong></p>
+        <ul>
+          <li>Employeement</li>
+          <li>Subcontracting</li>
+          <li>Text/HTML replacement and editing</li>
+          <li>Website Browser and Usability Testing</li>
+        </ul>
+      </section>
+    </div>
+      
+    </div>
     
     <footer id="footer">
-      <p>All Content &copy; 2012 Christopher Wilson</p>
+      <div id="copyright" class="b_color radius">
+        All Content &copy; 2012 Christopher Wilson
+      </div>
     </footer>
-    
     <script type="text/javascript" src="js/jquery.min.js"></script>
   </body>
 </html>
